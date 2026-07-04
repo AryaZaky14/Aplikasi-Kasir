@@ -1,14 +1,20 @@
-# Tugas Besar Pemrograman Web
-
-## Anggota Kelompok
-- Arya Zaky Putra (607022400006)
+# Aplikasi Kasir
 
 ## Deskripsi
-Website untuk memenuhi tugas besar mata kuliah Pemrograman Web.
+Aplikasi kasir berbasis web yang dikembangkan menggunakan Laravel sebagai implementasi mata kuliah Pemrograman Web. Sistem digunakan untuk mengelola transaksi, produk, kategori, dan pengguna.
+
+## Fitur
+- Login
+- Dashboard Admin
+- CRUD Produk
+- CRUD Kategori
+- CRUD Transaksi
+- Laporan
 
 ## Teknologi
-- HTML
-- CSS
-- JavaScript
+- Laravel
 - PHP
 - MySQL
+
+## Author
+Arya Zaky Putra Ardian Munaf
